@@ -1,0 +1,22 @@
+{
+  "name": "space-api",
+  "version": "1.0.0",
+  "description": "Uzay keşfi ve gezegenler hakkında RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "space",
+    "planets",
+    "nodejs",
+    "express"
+  ],
+  "author": "Umut SAYAR",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
